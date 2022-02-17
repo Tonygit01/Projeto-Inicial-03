@@ -1,0 +1,6 @@
+Lista de produtos
+Tipo de produtos
+Cores
+Peso
+Quantidade por tipo
+Total Geral
